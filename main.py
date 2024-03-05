@@ -1,2 +1,2 @@
 print('Bye World')
-print('lol')
+print("fuck you bro")
