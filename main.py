@@ -1,3 +1,1 @@
-print('Bye Worvsdvsdgvld')
-print("fuck you bro")
-print(bla bla)
+print("hello world")
